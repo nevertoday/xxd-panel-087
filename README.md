@@ -331,7 +331,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-083](https://github.com/nevertoday/xxd-panel-083)** | Ugly-cute 丑萌涂鸦 · Wonky 发抖轮廓 · 故意失准 · 单一幽默主角 · 粗糙蜡笔 · 少怪笨准 |
 | **[xxd-panel-084](https://github.com/nevertoday/xxd-panel-084)** | 极简城市线描 · 几何线性骨架 · 点描密度层次 · 透视引导线 · 限制性色彩 · 诗意留白 |
 | **[xxd-panel-085](https://github.com/nevertoday/xxd-panel-085)** | 手工微缩舞台 · 收藏级立体封面 · 黏土毛毡纸板 · 手剪线绳 · 哑光触感 · 艺术留白 |
-| **[xxd-panel-087](https://github.com/nevertoday/xxd-panel-087)** | 中世纪现代主义 · 限色丝网版画 · 剪影几何 · 干刷拖墨 · 断墨飞白 · 有意义的留白 |
+| **[xxd-panel-087](https://github.com/nevertoday/xxd-panel-087)** | 实体节点 · 红色线绳 · 关系映射 · 涌现几何 · 手写注释 · 研究墙式留白 |
 <!-- xxd-panel-catalog:end -->
 
 ## 关于 XXD

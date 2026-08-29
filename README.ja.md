@@ -328,7 +328,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-082](https://github.com/nevertoday/xxd-panel-082)** | 不規則水彩色域 · Naïve + Wonky · Isometric／2.5D · 素朴な輪郭 · 鮮やかな色 · 立体主役 |
 | **[xxd-panel-083](https://github.com/nevertoday/xxd-panel-083)** | Ugly-cute 落書き · Wonky 輪郭 · 制御された不正確さ · 一人のユーモア主役 · 粗いクレヨン · 少・変・不器用・正確 |
 | **[xxd-panel-084](https://github.com/nevertoday/xxd-panel-084)** | ミニマル都市線描 · 幾何学骨格 · 密度点描 · 透視リーディングライン · 限定色 · 詩的余白 |
-| **[xxd-panel-087](https://github.com/nevertoday/xxd-panel-087)** | 手作り微縮舞台 · コレクタブル立体表紙 · 粘土とフェルト · 切り紙と糸 · マットな触感 · 芸術的余白 |
+| **[xxd-panel-087](https://github.com/nevertoday/xxd-panel-087)** | 実体ノード · 赤い糸 · 関係マッピング · 創発幾何 · 手書き注釈 · リサーチウォールの余白 |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD について

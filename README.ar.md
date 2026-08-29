@@ -328,7 +328,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-082](https://github.com/nevertoday/xxd-panel-082)** | حقل مائي غير منتظم · Naïve + Wonky · Isometric／2.5D · محيط طفولي · لون حي · بطل مجسّم |
 | **[xxd-panel-083](https://github.com/nevertoday/xxd-panel-083)** | خربشة Ugly-cute · محيط Wonky · عدم دقة مضبوطة · بطل فكاهي واحد · شمع خشن · قليل وغريب وأخرق ودقيق |
 | **[xxd-panel-084](https://github.com/nevertoday/xxd-panel-084)** | رسم حضري بسيط · هيكل هندسي · تنقيط كثافي · خطوط منظور قائدة · ألوان محدودة · فراغ شعري |
-| **[xxd-panel-087](https://github.com/nevertoday/xxd-panel-087)** | مسرح مصغّر يدوي · غلاف مجسّم قابل للاقتناء · طين ولباد · ورق مقصوص وخيط · ملمس مطفأ · فراغ فني |
+| **[xxd-panel-087](https://github.com/nevertoday/xxd-panel-087)** | عقد ملموسة · خيط أحمر · رسم العلاقات · هندسة ناشئة · تعليقات يدوية · فراغ جدار بحثي |
 <!-- xxd-panel-catalog:end -->
 
 ## عن XXD

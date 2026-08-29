@@ -329,7 +329,7 @@ Each of the 60 Panels preserves its own original brief and aesthetic logic. The 
 | **[xxd-panel-083](https://github.com/nevertoday/xxd-panel-083)** | UGLY-CUTE DOODLE · WONKY TREMBLING CONTOUR · CONTROLLED WRONGNESS · ONE COMIC PROTAGONIST · ROUGH CRAYON · SPARSE-STRANGE-CLUMSY-ACCURATE |
 | **[xxd-panel-084](https://github.com/nevertoday/xxd-panel-084)** | MINIMAL URBAN LINEWORK · GEOMETRIC SCAFFOLD · DENSITY-BASED STIPPLING · LEADING LINES · RESTRAINED COLOUR · POETIC WHITESPACE |
 | **[xxd-panel-085](https://github.com/nevertoday/xxd-panel-085)** | HANDMADE MINIATURE STAGE · COLLECTIBLE DIMENSIONAL COVER · CLAY AND FELT · CUT PAPER AND STRING · MATTE TACTILITY · ARTFUL WHITESPACE |
-| **[xxd-panel-087](https://github.com/nevertoday/xxd-panel-087)** | MID-CENTURY MODERNISM · LIMITED-INK SCREEN PRINT · SILHOUETTE GEOMETRY · DRY-BRUSH DRAG · BROKEN INK · MEANINGFUL WHITESPACE |
+| **[xxd-panel-087](https://github.com/nevertoday/xxd-panel-087)** | PHYSICAL NODES · RED STRING LINKS · RELATIONSHIP MAPPING · EMERGENT GEOMETRY · HANDWRITTEN ANNOTATION · OPEN SPACE |
 <!-- xxd-panel-catalog:end -->
 
 ## About XXD
