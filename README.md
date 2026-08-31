@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 087
+# 🦁 XXD Panel 087｜红线关系图
 
 ### 把照片转译成一张实体线绳关系系统图
 

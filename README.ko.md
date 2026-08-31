@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 087
+# 🦁 XXD Panel 087｜붉은 실 관계도
 
 ### 사진을 실제 실끈 관계 시스템 지도로 변환합니다
 

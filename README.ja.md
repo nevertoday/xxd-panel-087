@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 087
+# 🦁 XXD Panel 087｜赤い糸の関係図
 
 ### 写真を実体的な糸による関係システムマップへ
 

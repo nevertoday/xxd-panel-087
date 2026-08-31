@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 087
+# 🦁 XXD Panel 087｜Red-Thread Relationship Map
 
 ### Turn the photograph into a tangible string-based systems map
 
