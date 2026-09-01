@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 087 project banner" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 087｜Red-Thread Relationship Map
