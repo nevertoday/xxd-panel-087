@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-087
-description: "Create XXD Panel 087 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-087 or requests the exact Panel 087 style."
+description: "XXD Panel 087｜Red-Thread Relationship Map: translates the subject, outline, structure and story of a photo into a physical string-based systems map — key contours, turns, directions and positions become small pin nodes on a natural white board, joined by real vermilion, coral or warm-red string into radiating, converging and polygonal links whose emergent geometry still hints at the original subject — dense at one core node and looser toward the edges, with pin shadows, string slack, crossings, paper tags and a few small hand-lettered research-note annotations, arrows and circles, plus small accents from the photo on pins or tags and plenty of empty board. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-087 or asks for red string map, pin-and-thread node-link art or research-wall relationship diagram from a photo."
 ---
 
 # XXD Panel 087

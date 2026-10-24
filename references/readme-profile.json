@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 087｜Red-Thread Relationship Map: translates the subject, outline, structure and story of a photo into a physical string-based systems map — key contours, turns, directions and positions become small pin nodes on a natural white board, joined by real vermilion, coral or warm-red string into radiating, converging and polygonal links whose emergent geometry still hints at the original subject — dense at one core node and looser toward the edges, with pin shadows, string slack, crossings, paper tags and a few small hand-lettered research-note annotations, arrows and circles, plus small accents from the photo on pins or tags and plenty of empty board. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-087 or asks for red string map, pin-and-thread node-link art or research-wall relationship diagram from a photo.",
+  "short_description": "红线关系图：把照片拆成图钉节点，用朱红线绳在白纸板上连成一张可触摸的关系系统图",
+  "zh-CN": {
+    "name": "红线关系图",
+    "tagline": "把照片拆成一枚枚图钉，用朱红线绳连成一张看得见的关系地图。",
+    "look": "画面不直接画出原物，而是把它的关键轮廓、转折、动作方向和位置变成一枚枚小图钉，钉在自然白的纸板上，再用真实的朱红、珊瑚红或暖红线绳连起来。线绳按原图的方向和远近放射、聚合、组成三角和多边形，连出的几何形隐约能看出原来的主体。中心一个核心节点处最密，往外逐渐稀疏，留出大片空板；看得见针脚阴影、线的松紧、交叉遮挡和纸质小标签。节点旁和交汇处有细小、松弛的手写注释、箭头和圈注，像研究笔记。",
+    "traits": ["图钉节点", "朱红线绳", "关系映射", "涌现几何", "手写注释", "中心密外围疏"],
+    "good": [
+      "结构和方向感强的主体：一座桥、一棵大树、一辆自行车、一座塔",
+      "有明确关系的画面：牵着手的两个人、追球的狗、站台上等车的人",
+      "适合讲“各部分如何连接”的场景：十字路口、港口、摆满工具的工作台"
+    ],
+    "poor": [
+      "需要看到原物本来样子或颜色的照片：人像、穿搭、产品图",
+      "轮廓模糊、没有可拆结构的画面：雾、云、纯色背景前的特写",
+      "想要侦探板、恐怖犯罪板、数字网络 UI 或普通流程图效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Red-Thread Relationship Map",
+    "tagline": "Breaks your photo into pins and links them with vermilion string into a map of how its parts relate.",
+    "look": "The original is not drawn directly. Its key contours, turns, directions of movement and positions become small pins on natural white board, joined by real vermilion, coral or warm-red string. The strings radiate, converge and form triangles and polygons following the photo's directions and distances, and the geometry that emerges still hints at the original subject. Lines are densest around one core node and thin out toward the edges, leaving plenty of bare board, with visible pin shadows, slack and taut string, crossings and small paper tags. Small, loose handwritten notes, arrows and circles sit beside nodes and at crossings, like research notes.",
+    "traits": ["Pin nodes", "Vermilion string", "Relationship mapping", "Emergent geometry", "Handwritten notes", "Dense centre, loose edges"],
+    "good": [
+      "Subjects with strong structure and direction: a bridge, a big tree, a bicycle, a tower",
+      "Scenes with a clear relationship: two people holding hands, a dog chasing a ball, someone waiting on a platform",
+      "Scenes that suit a 'how the parts connect' story: a crossroads, a harbour, a workbench full of tools"
+    ],
+    "poor": [
+      "Photos where you need to see the original's real look or colour: portraits, outfits, product shots",
+      "Blurry scenes with no structure to break down: fog, clouds, close-ups against plain backgrounds",
+      "Requests for a detective board, a creepy crime wall, a digital network UI or an ordinary flowchart"
+    ]
+  },
+  "ja": {
+    "name": "赤い糸の関係図",
+    "tagline": "写真を一本一本の画鋲に分け、朱色の糸でつないで、部分どうしの関係が見える地図にします。",
+    "look": "元の姿をそのまま描くのではなく、大事な輪郭、曲がり角、動きの向き、位置を小さな画鋲に変えて自然な白のボードに刺し、本物の朱色、コーラルレッド、暖かい赤の糸でつなぎます。糸は写真の向きや遠近に沿って放射し、集まり、三角形や多角形をつくり、浮かび上がる幾何学形から元の主役がうっすら読み取れます。中心の一つの節点のまわりがいちばん密で、外へ行くほどまばらになり、何もないボードが広く残ります。針の影、糸の張りとたるみ、交差、紙の小さなタグが見え、節点のそばや交点には、研究ノートのような小さくゆるい手書きのメモ、矢印、丸囲みが入ります。",
+    "traits": ["画鋲の節点", "朱色の糸", "関係のマッピング", "立ち現れる幾何学", "手書きの注記", "中心は密、外側は疎"],
+    "good": [
+      "構造や向きがはっきりした主役：橋、大きな木、自転車、塔",
+      "関係がはっきりした場面：手をつなぐ二人、ボールを追う犬、ホームで電車を待つ人",
+      "「部分がどうつながるか」を語れる場面：交差点、港、道具の並ぶ作業台"
+    ],
+    "poor": [
+      "元の見た目や色を見せたい写真：ポートレート、コーディネート、商品写真",
+      "輪郭がぼやけて分解できる構造のない場面：霧、雲、無地の背景の前のアップ",
+      "探偵ボード、不気味な事件ボード、デジタルネットワークの UI、普通のフローチャートを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "붉은 실 관계도",
+    "tagline": "사진을 압정 하나하나로 나누고 주홍 실로 이어, 부분들의 관계가 보이는 지도로 만듭니다.",
+    "look": "원래 모습을 그대로 그리지 않고, 핵심 윤곽, 꺾이는 곳, 움직임의 방향, 위치를 작은 압정으로 바꿔 자연스러운 흰 판지에 꽂은 뒤 진짜 주홍, 코랄 레드, 따뜻한 빨간 실로 잇습니다. 실은 사진의 방향과 거리감을 따라 퍼지고 모이며 삼각형과 다각형을 만들고, 그렇게 떠오른 기하 형태에서 원래 주인공이 어렴풋이 읽힙니다. 중심의 핵심 노드 주변이 가장 촘촘하고 바깥으로 갈수록 성기며, 빈 판지가 넓게 남습니다. 핀 그림자, 실의 팽팽함과 느슨함, 교차, 작은 종이 태그가 보이고, 노드 옆과 교차점에는 연구 노트 같은 작고 느슨한 손글씨 메모, 화살표, 동그라미가 들어갑니다.",
+    "traits": ["압정 노드", "주홍 실", "관계 매핑", "떠오르는 기하", "손글씨 주석", "중심은 촘촘, 바깥은 성기게"],
+    "good": [
+      "구조와 방향감이 강한 주인공: 다리, 큰 나무, 자전거, 탑",
+      "관계가 분명한 장면: 손잡은 두 사람, 공을 쫓는 강아지, 플랫폼에서 기다리는 사람",
+      "'부분들이 어떻게 이어지는지'를 이야기하기 좋은 장면: 교차로, 항구, 공구가 놓인 작업대"
+    ],
+    "poor": [
+      "원래 생김새나 색을 보여 줘야 하는 사진: 인물 사진, 옷차림, 제품 사진",
+      "윤곽이 흐리고 나눌 구조가 없는 장면: 안개, 구름, 단색 배경 앞 클로즈업",
+      "탐정 보드, 섬뜩한 범죄 보드, 디지털 네트워크 UI, 평범한 순서도를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "خريطة العلاقات بالخيط الأحمر",
+    "tagline": "يفكّك صورتك إلى دبابيس ويربطها بخيط قرمزي في خريطة تُظهر كيف تترابط أجزاؤها.",
+    "look": "لا يُرسم الأصل مباشرة، بل تتحول محيطاته الأساسية وانعطافاته واتجاهات حركته ومواضعه إلى دبابيس صغيرة مغروسة في لوح أبيض طبيعي، تربطها خيوط حقيقية بلون القرمزي أو الأحمر المرجاني أو الأحمر الدافئ. تنتشر الخيوط وتتجمّع وتشكّل مثلثات ومضلعات وفق اتجاهات الصورة ومسافاتها، وتوحي الهندسة الناشئة بالعنصر الأصلي. تكون الخطوط أكثف حول عقدة محورية واحدة وتتخفف نحو الأطراف، تاركة مساحة واسعة من اللوح الفارغ، مع ظلال الدبابيس وارتخاء الخيوط وشدّها وتقاطعاتها وبطاقات ورقية صغيرة. وتجاور العقدَ ونقاطَ التقاطع ملاحظاتٌ صغيرة مرتخية بخط اليد وأسهم ودوائر، كملاحظات باحث.",
+    "traits": ["عقد من الدبابيس", "خيط قرمزي", "رسم العلاقات", "هندسة ناشئة", "ملاحظات بخط اليد", "مركز كثيف وأطراف متخففة"],
+    "good": [
+      "عناصر ذات بنية واتجاه قويين: جسر، شجرة كبيرة، دراجة، برج",
+      "مشاهد فيها علاقة واضحة: شخصان يتشابكان الأيدي، كلب يطارد كرة، شخص ينتظر على رصيف محطة",
+      "مشاهد تصلح لحكاية «كيف تتصل الأجزاء»: تقاطع طرق، ميناء، طاولة عمل مليئة بالأدوات"
+    ],
+    "poor": [
+      "صور تحتاج فيها إلى رؤية الشكل أو اللون الحقيقي: صور شخصية، أزياء، صور منتجات",
+      "مشاهد ضبابية بلا بنية قابلة للتفكيك: الضباب، الغيوم، لقطات قريبة أمام خلفيات سادة",
+      "طلب لوحة محقق أو جدار جرائم مخيف أو واجهة شبكة رقمية أو مخطط انسيابي عادي"
+    ]
+  }
+}
